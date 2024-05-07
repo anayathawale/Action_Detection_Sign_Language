@@ -11,7 +11,7 @@ This project utilizes TensorFlow, OpenCV, and MediaPipe to detect and classify h
 
 ## Installation
 Install the required packages via pip:
-'''bash
+'''
     pip install tensorflow opencv-python-headless mediapipe matplotlib numpy
 '''
 
